@@ -55,7 +55,7 @@ Rule of law is not a qualitative variable - cannot be on a numerical axis.
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-Racist?
+Racist??
 
 
 
