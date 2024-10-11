@@ -33,7 +33,7 @@ There cannot be 1000+ billion speakers of chinese. The scaling of the charts are
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-Unclear what variables ar represented by what.
+Unclear what variables are represented by what.
 
 
 
